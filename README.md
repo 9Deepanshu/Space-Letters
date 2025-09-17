@@ -1,1 +1,1 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lVpM0qqxqhE?si=e-dcDZEN-o6nJSP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Space Letters Video Demo](https://img.youtube.com/vi/lVpM0qqxqhE?si=e-dcDZEN-o6nJSP0/hqdefault.jpg)](https://www.youtube.com/embed/lVpM0qqxqhE?si=e-dcDZEN-o6nJSP0)
